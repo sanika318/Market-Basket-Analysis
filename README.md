@@ -41,10 +41,4 @@ The analysis revealed strong associations between certain bakery items, such as 
 - Targeting advertisements based on item associations.
 - Developing new products that combine frequently purchased items.
 
-## How to Use
 
-To run the analysis yourself:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sanika318/market-basket-analysis.git
